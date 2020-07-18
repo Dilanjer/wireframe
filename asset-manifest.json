@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wireframe/static/css/main.4ecef1f0.chunk.css",
+    "main.js": "/wireframe/static/js/main.92c293c2.chunk.js",
+    "main.js.map": "/wireframe/static/js/main.92c293c2.chunk.js.map",
+    "runtime-main.js": "/wireframe/static/js/runtime-main.4668c2ac.js",
+    "runtime-main.js.map": "/wireframe/static/js/runtime-main.4668c2ac.js.map",
+    "static/js/2.6dc2348e.chunk.js": "/wireframe/static/js/2.6dc2348e.chunk.js",
+    "static/js/2.6dc2348e.chunk.js.map": "/wireframe/static/js/2.6dc2348e.chunk.js.map",
+    "index.html": "/wireframe/index.html",
+    "precache-manifest.52d128f6a11f039b1fb8cecc4e690b00.js": "/wireframe/precache-manifest.52d128f6a11f039b1fb8cecc4e690b00.js",
+    "service-worker.js": "/wireframe/service-worker.js",
+    "static/css/main.4ecef1f0.chunk.css.map": "/wireframe/static/css/main.4ecef1f0.chunk.css.map",
+    "static/js/2.6dc2348e.chunk.js.LICENSE.txt": "/wireframe/static/js/2.6dc2348e.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/wireframe/static/media/Montserrat-SemiBold.f4103669.woff",
+    "static/media/burger-close.svg": "/wireframe/static/media/burger-close.6a8b967b.svg",
+    "static/media/burger-menu.svg": "/wireframe/static/media/burger-menu.de2ccd19.svg",
+    "static/media/ipad-air.png": "/wireframe/static/media/ipad-air.6aa4ebce.png",
+    "static/media/macbook-pro.png": "/wireframe/static/media/macbook-pro.76a122c2.png",
+    "static/media/mail2.svg": "/wireframe/static/media/mail2.c32bb29e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4668c2ac.js",
+    "static/js/2.6dc2348e.chunk.js",
+    "static/css/main.4ecef1f0.chunk.css",
+    "static/js/main.92c293c2.chunk.js"
+  ]
+}
